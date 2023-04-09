@@ -9,6 +9,7 @@ PROMO Développeur Web et Web mobile - Du 20 Mars 2023 au 30 Novembre 2023
 ![Figma](./Images/Figma-logo.svg)
 ![HTML](./Images/html.svg)
 ![CSS](./Images/css.svg)
+![SF](./Images/symfony.svg) 
 ![Bootstrap](./Images/Bootstrap_logo.svg)
 ![Less](./Images/LESS.svg)
 ![PHP](./Images/php.svg)
