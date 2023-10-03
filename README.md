@@ -1,10 +1,7 @@
 # *Maïwenn Lemaire* :call_me_hand:
 PROMO Développeur Web et Web mobile - Du 20 Mars 2023 au 30 Novembre 2023
-### Voici différents projet sur lesquelles je travaille durant cette formation 
-* [MASSIF](https://maiwl.github.io/MASSIF/)
-* [LEGENDARY](https://maiwl.github.io/Legendary/)
-### Projet avec Bootstrap 5 en cours...
-* [Hosting](https://maiwl.github.io/Hosting/)
+## À propos de moi :heavy_exclamation_mark:
+J'ai découvert ma vocation pour le métier de développeur informatique en novembre 2022, et depuis lors, j'ai consacré tout mon temps à cette nouvelle passion. Mon engagement total dans le codage m'a permis de développer une véritable passion pour ce domaine. 
 ## *Languages & Tools*
 ![GitHub](./Images/Git_icon%20(1).svg)
 ![VSCode](./Images/Visual_Studio_Code_1.35_icon.svg)
